@@ -64,9 +64,7 @@ The results of the model, including accuracy, precision, and recall, are discuss
 
 For a detailed explanation of the project, including data analysis, model building, and evaluation, please refer to the project report embedded below:
 
-<iframe src="https://docs.google.com/viewer?url=https://github.com/Shradha-12/Water-Potability-Prediction/raw/main/Waterpred%20code.pdf&embedded=true" width="600" height="780" style="border: none;"></iframe>
-
-Alternatively, you can [view the report directly](https://github.com/Shradha-12/Water-Potability-Prediction/raw/main/Waterpred%20code.pdf).
+Alternatively,  [view the report directly](https://github.com/Shradha-12/Water-Potability-Prediction/raw/main/Waterpred%20code.pdf).
 
 ## License
 
